@@ -18,5 +18,3 @@
     -  CSS
     -  JAVASCRİPT
     -  PHP
-    -  MYSQL
-
